@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "due-diligence-ai"
+version = "1.0.0"
+description = "AI-powered due diligence over SEC filings"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [{name = "Akshat Kumar Jha"}]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

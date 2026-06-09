@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+data/raw/
+data/processed/
+data/vectorstore/
+data/eval_report.json
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
