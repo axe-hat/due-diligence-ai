@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The Company also provides various related services including AppleCare, cloud services, and digital content stores.",
+    "metadata": {
+      "company": "AAPL",
+      "filing_type": "10-K",
+      "section": "Business Overview",
+      "filing_date": "2024-11-01",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "The Company's business, reputation, results of operations, financial condition, and stock price can be affected by a number of factors, whether currently known or unknown, including those described below. When any one or more of these risks materialize from time to time, the Company's business, reputation, results of operations, financial condition, and stock price can be materially and adversely affected.",
+    "metadata": {
+      "company": "AAPL",
+      "filing_type": "10-K",
+      "section": "Risk Factors",
+      "filing_date": "2024-11-01",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Total net revenue was $391.0 billion for fiscal year 2024, compared to $383.3 billion for fiscal year 2023. The increase was driven by higher iPhone and Services revenue, partially offset by lower iPad and Mac revenue. Gross margin improved to 46.2% from 44.1% driven by cost efficiencies and favorable product mix.",
+    "metadata": {
+      "company": "AAPL",
+      "filing_type": "10-K",
+      "section": "Management Discussion and Analysis",
+      "filing_date": "2024-11-01",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "The Company is subject to various legal proceedings and claims that arise in the ordinary course of business. The Company records a liability when it is probable that a loss has been incurred and the amount of the loss can be reasonably estimated. The Company reviews the status of each significant matter and assesses its potential financial exposure.",
+    "metadata": {
+      "company": "AAPL",
+      "filing_type": "10-K",
+      "section": "Legal Proceedings",
+      "filing_date": "2024-11-01",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "The Company's investments in marketable securities are subject to market risk due to changes in interest rates. A hypothetical 100 basis point increase in interest rates would result in a decrease of approximately $2.9 billion in the fair value of the Company's investment portfolio as of September 28, 2024.",
+    "metadata": {
+      "company": "AAPL",
+      "filing_type": "10-K",
+      "section": "Market Risk",
+      "filing_date": "2024-11-01",
+      "chunk_index": 4
+    }
+  }
+]
