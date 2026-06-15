@@ -1,0 +1,25 @@
+services:
+  app:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8000:8000"
+      - "8501:8501"
+    volumes:
+      - ../data:/app/data
+    environment:
+      - LLM_BACKEND=ollama
+      - LLM_MODEL=gemma2:9b
+      - OLLAMA_URL=http://ollama:11434
+      - CHROMA_PATH=/app/data/vectorstore
+
+  ollama:
+    image: ollama/ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+
+volumes:
+  ollama_data:
